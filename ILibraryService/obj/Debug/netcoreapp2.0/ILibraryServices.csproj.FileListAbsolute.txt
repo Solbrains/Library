@@ -1,0 +1,8 @@
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\ILibraryServices.deps.json
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\ILibraryServices.dll
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\ILibraryServices.pdb
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\ILibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\ILibraryServices.AssemblyInfoInputs.cache
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\ILibraryServices.AssemblyInfo.cs
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\ILibraryServices.dll
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\ILibraryServices.pdb

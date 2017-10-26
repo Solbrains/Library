@@ -1,0 +1,42 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\ILibraryService\\LibraryServices.csproj",
+    "projectName": "LibraryServices",
+    "projectPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\ILibraryService\\LibraryServices.csproj",
+    "outputPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\ILibraryService\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\LibraryData\\LibraryData.csproj": {
+            "projectPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\LibraryData\\LibraryData.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

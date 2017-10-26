@@ -1,0 +1,11 @@
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\el\Documents\Visual Studio 2017\Projects\NetCore2\MVC\Library\ILibraryService\obj\Debug\netcoreapp2.0\LibraryServices.csprojResolveAssemblyReference.cache

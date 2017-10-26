@@ -1,0 +1,68 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\Library\\Library.csproj",
+    "projectName": "Library",
+    "projectPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\Library\\Library.csproj",
+    "outputPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\Library\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\ILibraryService\\LibraryServices.csproj": {
+            "projectPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\ILibraryService\\LibraryServices.csproj"
+          },
+          "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\LibraryData\\LibraryData.csproj": {
+            "projectPath": "C:\\Users\\el\\Documents\\Visual Studio 2017\\Projects\\NetCore2\\MVC\\Library\\LibraryData\\LibraryData.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "bootstrap": {
+          "target": "Package",
+          "version": "4.0.0-beta"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.Tools.DotNet": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Telerik.UI.for.AspNet.Core": {
+          "target": "Package",
+          "version": "2017.3.913"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
